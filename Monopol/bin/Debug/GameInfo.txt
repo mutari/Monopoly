@@ -1,0 +1,2080 @@
+now playing {name}55353ate 20teon
+{name}55427 slog lika
+{name}55427 moved to plate 6
+{name}55427 hit 3,3
+{name}55427 bouth a House plate
+now playing {name}55427
+{name}55427 moved to plate 17
+{name}55427 hit 6,5
+{name}55427 hamlade på chans
+{name}55427 moved to plate 0
+{name}55427 hit 6,5
+{name}55427 found 400kr
+now playing {name}55427
+{name}55427 moved to plate 8
+{name}55427 hit 5,3
+{name}55427 bouth a House plate
+now playing {name}55427
+{name}55427 slog lika
+{name}55427 moved to plate 18
+{name}55427 hit 5,5
+{name}55427 bouth a House plate
+now playing {name}55427
+{name}56612 gick till platta 8
+{name}56612 slog 2,6
+{name}56612 köpte en gata
+now playing {name}56612
+{name}56612 gick till platta 13
+{name}56612 slog 1,4
+{name}56612 köpte en gata
+now playing {name}56612
+{name}56612 gick till platta 23
+{name}56612 slog 6,4
+{name}56612 köpte en gata
+now playing {name}56612
+{name}56612 gick till platta 33
+{name}56612 slog 4,6
+{name}56612 hamlade på chans
+{name}56612 text på kortet Du har valts till styrelseordförande. Betalla #50 till varje spelare.
+now playing {name}56612
+{name}56612 gick till platta 38
+{name}56612 slog 2,3
+{name}56612 förlorade 100kr
+now playing {name}56612
+{name}57652 gick till platta 4
+{name}57652 slog 1,3
+{name}57652 förlorade 100kr
+now playing {name}57651
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}57801:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}57801::newPlayer:{name}57802:
+0001-01-01 00:00:00:newPlayer:{name}57801::newPlayer:{name}57802:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:dice:4:6:210:60:{name}57802
+0001-01-01 00:00:00:dice:4:6:210:60:{name}57802
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}57802 slog 4,6:
+0001-01-01 00:00:00:Message:{name}57802 slog 4,6:
+0001-01-01 00:00:00:Message:{name}57802 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:Message:{name}57802 hamlade på bara på besök:
+0001-01-01 00:00:00:dice:1:4:210:390:{name}57801
+0001-01-01 00:00:00:dice:1:4:210:390:{name}57801
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}57801 slog 1,4:
+0001-01-01 00:00:00:Message:{name}57801 slog 1,4:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}57801:
+0001-01-01 00:00:00:Message:{name}57801 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}57801 köpte en tågstation:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:dice:4:6:860:60:{name}57802
+0001-01-01 00:00:00:dice:4:6:860:60:{name}57802
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 20:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 20:
+0001-01-01 00:00:00:Message:{name}57802 slog 4,6:
+0001-01-01 00:00:00:Message:{name}57802 slog 4,6:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:dice:4:5:470:60:{name}57801
+0001-01-01 00:00:00:dice:4:5:470:60:{name}57801
+0001-01-01 00:00:00:köpaYES/NO:160:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}57801 slog 4,5:
+0001-01-01 00:00:00:Message:{name}57801 slog 4,5:
+0001-01-01 00:00:00:uppdateMoney:1140:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:1140:{name}57801:
+0001-01-01 00:00:00:Message:{name}57801 köpte en gata:
+0001-01-01 00:00:00:Message:{name}57801 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:dice:4:2:860:450:{name}57802
+0001-01-01 00:00:00:dice:4:2:860:450:{name}57802
+0001-01-01 00:00:00:köpaYES/NO:260:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 26:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 26:
+0001-01-01 00:00:00:Message:{name}57802 slog 4,2:
+0001-01-01 00:00:00:Message:{name}57802 slog 4,2:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:uppdateMoney:1240:{name}57802:
+0001-01-01 00:00:00:uppdateMoney:1240:{name}57802:
+0001-01-01 00:00:00:Message:{name}57802 köpte en gata:
+0001-01-01 00:00:00:Message:{name}57802 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:dice:4:1:775:60:{name}57801
+0001-01-01 00:00:00:dice:4:1:775:60:{name}57801
+0001-01-01 00:00:00:köpaYES/NO:200:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}57801 slog 4,1:
+0001-01-01 00:00:00:Message:{name}57801 slog 4,1:
+0001-01-01 00:00:00:uppdateMoney:940:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:940:{name}57801:
+0001-01-01 00:00:00:Message:{name}57801 köpte en gata:
+0001-01-01 00:00:00:Message:{name}57801 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:dice:6:5:410:715:{name}57802
+0001-01-01 00:00:00:dice:6:5:410:715:{name}57802
+0001-01-01 00:00:00:köpaYES/NO:350:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 37:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 37:
+0001-01-01 00:00:00:Message:{name}57802 slog 6,5:
+0001-01-01 00:00:00:Message:{name}57802 slog 6,5:
+0001-01-01 00:00:00:uppdateMoney:890:{name}57802:
+0001-01-01 00:00:00:uppdateMoney:890:{name}57802:
+0001-01-01 00:00:00:Message:{name}57802 köpte en gata:
+0001-01-01 00:00:00:Message:{name}57802 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:dice:1:3:860:270:{name}57801
+0001-01-01 00:00:00:dice:1:3:860:270:{name}57801
+0001-01-01 00:00:00:köpaYES/NO:220:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 23:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 23:
+0001-01-01 00:00:00:Message:{name}57801 slog 1,3:
+0001-01-01 00:00:00:Message:{name}57801 slog 1,3:
+0001-01-01 00:00:00:uppdateMoney:720:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:720:{name}57801:
+0001-01-01 00:00:00:Message:{name}57801 köpte en gata:
+0001-01-01 00:00:00:Message:{name}57801 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:dice:5:2:210:450:{name}57802
+0001-01-01 00:00:00:dice:5:2:210:450:{name}57802
+0001-01-01 00:00:00:Message:{name}57802 slog 5,2:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:1090:{name}57802:
+0001-01-01 00:00:00:Message:{name}57802 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:uppdateMoney:1090:{name}57802:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}57802 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}57802 slog 5,2:
+0001-01-01 00:00:00:Message:{name}57802 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}57802 förlorade 100kr:
+0001-01-01 00:00:00:uppdateMoney:990:{name}57802:
+0001-01-01 00:00:00:uppdateMoney:990:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:dice:2:4:860:640:{name}57801
+0001-01-01 00:00:00:dice:2:4:860:640:{name}57801
+0001-01-01 00:00:00:köpaYES/NO:280:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 29:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 29:
+0001-01-01 00:00:00:Message:{name}57801 slog 2,4:
+0001-01-01 00:00:00:Message:{name}57801 slog 2,4:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:uppdateMoney:440:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:440:{name}57801:
+0001-01-01 00:00:00:Message:{name}57801 köpte en gata:
+0001-01-01 00:00:00:Message:{name}57801 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:dice:3:5:350:60:{name}57802
+0001-01-01 00:00:00:dice:3:5:350:60:{name}57802
+0001-01-01 00:00:00:köpaYES/NOWork:150:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 12:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 12:
+0001-01-01 00:00:00:Message:{name}57802 slog 3,5:
+0001-01-01 00:00:00:Message:{name}57802 slog 3,5:
+0001-01-01 00:00:00:uppdateMoney:840:{name}57802:
+0001-01-01 00:00:00:uppdateMoney:840:{name}57802:
+0001-01-01 00:00:00:Message:{name}57802 köpte ett statligt verk:
+0001-01-01 00:00:00:Message:{name}57802 köpte ett statligt verk:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:dice:1:5:530:715:{name}57801
+0001-01-01 00:00:00:dice:1:5:530:715:{name}57801
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 35:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 35:
+0001-01-01 00:00:00:Message:{name}57801 slog 1,5:
+0001-01-01 00:00:00:Message:{name}57801 slog 1,5:
+0001-01-01 00:00:00:uppdateMoney:240:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:240:{name}57801:
+0001-01-01 00:00:00:Message:{name}57801 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}57801 köpte en tågstation:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:dice:3:2:650:60:{name}57802
+0001-01-01 00:00:00:dice:3:2:650:60:{name}57802
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 17:
+0001-01-01 00:00:00:Message:{name}57802 gick till platta 17:
+0001-01-01 00:00:00:Message:{name}57802 slog 3,2:
+0001-01-01 00:00:00:Message:{name}57802 slog 3,2:
+0001-01-01 00:00:00:showChansMessage:Du erhåller #25 i konsultarvode.:{name}57802:
+0001-01-01 00:00:00:showChansMessage:Du erhåller #25 i konsultarvode.:{name}57802:
+0001-01-01 00:00:00:Message:{name}57802 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}57802 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}57802 text på kortet Du erhåller #25 i konsultarvode.:
+0001-01-01 00:00:00:Message:{name}57802 text på kortet Du erhåller #25 i konsultarvode.:
+0001-01-01 00:00:00:uppdateMoney:865:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:nowPlaying:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:865:{name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57801:
+0001-01-01 00:00:00:dice:5:5:210:390:{name}57801
+0001-01-01 00:00:00:dice:5:5:210:390:{name}57801
+0001-01-01 00:00:00:Message:{name}57801 slog lika:
+0001-01-01 00:00:00:Message:{name}57801 slog lika:
+0001-01-01 00:00:00:uppdateMoney:440:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:440:{name}57801:
+0001-01-01 00:00:00:Message:{name}57801 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:Message:{name}57801 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}57801 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}57801 slog 5,5:
+0001-01-01 00:00:00:Message:{name}57801 slog 5,5:
+0001-01-01 00:00:00:uppdateMoney:440:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:440:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:440:{name}57801:
+0001-01-01 00:00:00:uppdateMoney:440:{name}57801:
+0001-01-01 00:00:00:Message:{name}57801 betalade 50 till {name}57801:
+0001-01-01 00:00:00:Message:{name}57801 betalade 50 till {name}57801:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:nowPlaying:{name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:Message:now playing {name}57802:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}58035:
+0001-01-01 00:00:00:nowPlaying:{name}58035:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:dice:3:2:210:390:{name}58035
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:Message:{name}58035 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}58035 slog 3,2:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}58035:
+0001-01-01 00:00:00:Message:{name}58035 köpte en tågstation:
+0001-01-01 00:00:00:nowPlaying:{name}58035:
+0001-01-01 00:00:00:Message:now playing {name}58035:
+0001-01-01 00:00:00:dice:6:2:410:60:{name}58035
+0001-01-01 00:00:00:köpaYES/NO:140:
+0001-01-01 00:00:00:Message:{name}58035 gick till platta 13:
+0001-01-01 00:00:00:Message:{name}58035 slog 6,2:
+0001-01-01 00:00:00:nowPlaying:{name}58035:
+0001-01-01 00:00:00:Message:now playing {name}58035:
+0001-01-01 00:00:00:dice:3:6:860:210:{name}58035
+0001-01-01 00:00:00:dice:3:6:210:60:{name}58035
+0001-01-01 00:00:00:Message:{name}58035 gick till platta 22:
+0001-01-01 00:00:00:Message:{name}58035 slog 3,6:
+0001-01-01 00:00:00:showChansMessage:Gå i fängelse. Gå direkt i fängelse utan att passera gå. Inkassera inte #200:{name}58035:
+0001-01-01 00:00:00:Message:{name}58035 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}58035 text på kortet Gå i fängelse. Gå direkt i fängelse utan att passera gå. Inkassera inte #200:
+0001-01-01 00:00:00:Message:{name}58035 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}58035 slog 3,6:
+0001-01-01 00:00:00:Message:{name}58035 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}58035:
+0001-01-01 00:00:00:Message:now playing {name}58035:
+0001-01-01 00:00:00:dice:4:2:595:60:{name}58035
+0001-01-01 00:00:00:köpaYES/NO:180:
+0001-01-01 00:00:00:Message:{name}58035 gick till platta 16:
+0001-01-01 00:00:00:Message:{name}58035 slog 4,2:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}61399:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}61399::newPlayer:{name}61400:
+0001-01-01 00:00:00:newPlayer:{name}61399::newPlayer:{name}61400:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:dice:1:1:210:570:{name}61399
+0001-01-01 00:00:00:dice:1:1:210:570:{name}61399
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 2:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 2:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:showChansMessage:Ditt bygglån förfaller inkassera #150.:{name}61399:
+0001-01-01 00:00:00:showChansMessage:Ditt bygglån förfaller inkassera #150.:{name}61399:
+0001-01-01 00:00:00:Message:{name}61399 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}61399 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}61399 text på kortet Ditt bygglån förfaller inkassera #150.:
+0001-01-01 00:00:00:Message:{name}61399 text på kortet Ditt bygglån förfaller inkassera #150.:
+0001-01-01 00:00:00:uppdateMoney:1650:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1650:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:dice:1:1:210:450:{name}61399
+0001-01-01 00:00:00:dice:1:1:210:450:{name}61399
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61399 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}61399 förlorade 100kr:
+0001-01-01 00:00:00:uppdateMoney:1550:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1550:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:dice:1:1:210:60:{name}61399
+0001-01-01 00:00:00:dice:1:1:210:60:{name}61399
+0001-01-01 00:00:00:Message:{name}61399 skickad till fängele för att slå lika 3 gånger:
+0001-01-01 00:00:00:Message:{name}61399 skickad till fängele för att slå lika 3 gånger:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:dice:1:4:210:390:{name}61400
+0001-01-01 00:00:00:dice:1:4:210:390:{name}61400
+0001-01-01 00:00:00:Message:{name}61400 slog 1,4:
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,4:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:payToGetOut:
+0001-01-01 00:00:00:dice:1:2:210:60:{name}61399
+0001-01-01 00:00:00:dice:1:2:210:60:{name}61399
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:dice:1:1:210:270:{name}61400
+0001-01-01 00:00:00:dice:1:1:210:270:{name}61400
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 7:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 7:
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,1:
+0001-01-01 00:00:00:showChansMessage:Det är din födelsedag inkasser #10 från varje spelare.:{name}61400:
+0001-01-01 00:00:00:showChansMessage:Det är din födelsedag inkasser #10 från varje spelare.:{name}61400:
+0001-01-01 00:00:00:Message:{name}61400 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}61400 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}61400 text på kortet Det är din födelsedag inkasser #10 från varje spelare.:
+0001-01-01 00:00:00:Message:{name}61400 text på kortet Det är din födelsedag inkasser #10 från varje spelare.:
+0001-01-01 00:00:00:uppdateMoney:1540:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1540:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1510:{name}61400:
+0001-01-01 00:00:00:uppdateMoney:1510:{name}61400:
+0001-01-01 00:00:00:Message:{name}61399 betalade 10 till {name}61400:
+0001-01-01 00:00:00:Message:{name}61399 betalade 10 till {name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:dice:1:2:230:60:{name}61400
+0001-01-01 00:00:00:dice:1:2:230:60:{name}61400
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,2:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,2:
+0001-01-01 00:00:00:Message:{name}61400 hamlade på bara på besök:
+0001-01-01 00:00:00:Message:{name}61400 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:dice:1:1:350:60:{name}61399
+0001-01-01 00:00:00:dice:1:1:350:60:{name}61399
+0001-01-01 00:00:00:köpaYES/NOWork:150:
+0001-01-01 00:00:00:Message:{name}61399 slog lika och lämnade fängelset:
+0001-01-01 00:00:00:Message:{name}61399 slog lika och lämnade fängelset:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 12:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 12:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:uppdateMoney:1390:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1390:{name}61399:
+0001-01-01 00:00:00:Message:{name}61399 köpte ett statligt verk:
+0001-01-01 00:00:00:Message:{name}61399 köpte ett statligt verk:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:dice:1:1:370:60:{name}61400
+0001-01-01 00:00:00:dice:1:1:370:60:{name}61400
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 12:
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 12:
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,1:
+0001-01-01 00:00:00:uppdateMoney:1466:{name}61400:
+0001-01-01 00:00:00:uppdateMoney:1466:{name}61400:
+0001-01-01 00:00:00:uppdateMoney:1434:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1434:{name}61399:
+0001-01-01 00:00:00:Message:{name}61400 betalade 44 till {name}61399:
+0001-01-01 00:00:00:Message:{name}61400 betalade 44 till {name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:dice:2:0:470:60:{name}61400
+0001-01-01 00:00:00:dice:2:0:470:60:{name}61400
+0001-01-01 00:00:00:köpaYES/NO:160:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}61400 slog 2,0:
+0001-01-01 00:00:00:Message:{name}61400 slog 2,0:
+0001-01-01 00:00:00:Message:{name}61400 köpte en gata:
+0001-01-01 00:00:00:Message:{name}61400 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:uppdateMoney:1306:{name}61400:
+0001-01-01 00:00:00:uppdateMoney:1306:{name}61400:
+0001-01-01 00:00:00:dice:1:1:490:60:{name}61399
+0001-01-01 00:00:00:dice:1:1:490:60:{name}61399
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:dice:1:1:595:60:{name}61399
+0001-01-01 00:00:00:dice:1:1:595:60:{name}61399
+0001-01-01 00:00:00:köpaYES/NO:180:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 16:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 16:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,1:
+0001-01-01 00:00:00:uppdateMoney:1254:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1254:{name}61399:
+0001-01-01 00:00:00:Message:{name}61399 köpte en gata:
+0001-01-01 00:00:00:Message:{name}61399 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:Message:{name}61399 slog lika:
+0001-01-01 00:00:00:dice:1:1:210:60:{name}61399
+0001-01-01 00:00:00:dice:1:1:210:60:{name}61399
+0001-01-01 00:00:00:Message:{name}61399 skickad till fängele för att slå lika 3 gånger:
+0001-01-01 00:00:00:Message:{name}61399 skickad till fängele för att slå lika 3 gånger:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:dice:1:3:715:60:{name}61400
+0001-01-01 00:00:00:dice:1:3:715:60:{name}61400
+0001-01-01 00:00:00:köpaYES/NO:180:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 18:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 18:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,3:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,3:
+0001-01-01 00:00:00:uppdateMoney:1126:{name}61400:
+0001-01-01 00:00:00:uppdateMoney:1126:{name}61400:
+0001-01-01 00:00:00:Message:{name}61400 köpte en gata:
+0001-01-01 00:00:00:Message:{name}61400 köpte en gata:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:payToGetOut:
+0001-01-01 00:00:00:dice:1:3:210:60:{name}61399
+0001-01-01 00:00:00:dice:1:3:210:60:{name}61399
+0001-01-01 00:00:00:dice:1:3:470:60:{name}61399
+0001-01-01 00:00:00:dice:1:3:470:60:{name}61399
+0001-01-01 00:00:00:uppdateMoney:1204:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1204:{name}61399:
+0001-01-01 00:00:00:Message:{name}61399 betalade 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}61399 betalade 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,3:
+0001-01-01 00:00:00:Message:{name}61399 slog 1,3:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:dice:1:1:860:60:{name}61400
+0001-01-01 00:00:00:dice:1:1:860:60:{name}61400
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 20:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 20:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,1:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:dice:1:1:860:210:{name}61400
+0001-01-01 00:00:00:dice:1:1:860:210:{name}61400
+0001-01-01 00:00:00:Message:{name}61400 slog 1,1:
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 22:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 22:
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 slog 1,1:
+0001-01-01 00:00:00:showChansMessage:Du säljer aktier och får #50:{name}61400:
+0001-01-01 00:00:00:showChansMessage:Du säljer aktier och får #50:{name}61400:
+0001-01-01 00:00:00:Message:{name}61400 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}61400 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}61400 text på kortet Du säljer aktier och får #50:
+0001-01-01 00:00:00:Message:{name}61400 text på kortet Du säljer aktier och får #50:
+0001-01-01 00:00:00:uppdateMoney:1176:{name}61400:
+0001-01-01 00:00:00:uppdateMoney:1176:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:Message:{name}61400 slog lika:
+0001-01-01 00:00:00:dice:1:1:210:60:{name}61400
+0001-01-01 00:00:00:dice:1:1:210:60:{name}61400
+0001-01-01 00:00:00:Message:{name}61400 skickad till fängele för att slå lika 3 gånger:
+0001-01-01 00:00:00:Message:{name}61400 skickad till fängele för att slå lika 3 gånger:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:dice:6:5:470:60:{name}61399
+0001-01-01 00:00:00:dice:6:5:470:60:{name}61399
+0001-01-01 00:00:00:payToGetOut:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:payToGetOut:
+0001-01-01 00:00:00:dice:2:1:210:60:{name}61400
+0001-01-01 00:00:00:dice:2:1:210:60:{name}61400
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:payToGetOut:
+0001-01-01 00:00:00:dice:6:5:470:60:{name}61399
+0001-01-01 00:00:00:dice:6:5:470:60:{name}61399
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:payToGetOut:
+0001-01-01 00:00:00:dice:1:2:210:60:{name}61400
+0001-01-01 00:00:00:dice:1:2:210:60:{name}61400
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:dice:6:5:860:390:{name}61399
+0001-01-01 00:00:00:dice:6:5:860:390:{name}61399
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:uppdateMoney:1154:{name}61399:
+0001-01-01 00:00:00:uppdateMoney:1154:{name}61399:
+0001-01-01 00:00:00:Message:{name}61399 tvungen att betala 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}61399 tvungen att betala 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}61399 slog 6,5:
+0001-01-01 00:00:00:Message:{name}61399 slog 6,5:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:dice:2:1:410:60:{name}61400
+0001-01-01 00:00:00:dice:2:1:410:60:{name}61400
+0001-01-01 00:00:00:köpaYES/NO:140:
+0001-01-01 00:00:00:uppdateMoney:1126:{name}61400:
+0001-01-01 00:00:00:Message:{name}61400 tvungen att betala 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}61400 tvungen att betala 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 13:
+0001-01-01 00:00:00:Message:{name}61400 gick till platta 13:
+0001-01-01 00:00:00:uppdateMoney:1126:{name}61400:
+0001-01-01 00:00:00:Message:{name}61400 slog 2,1:
+0001-01-01 00:00:00:Message:{name}61400 slog 2,1:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:Message:now playing {name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:nowPlaying:{name}61399:
+0001-01-01 00:00:00:dice:3:2:860:715:{name}61399
+0001-01-01 00:00:00:dice:3:2:860:715:{name}61399
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}61399 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}61399 slog 3,2:
+0001-01-01 00:00:00:Message:{name}61399 slog 3,2:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:nowPlaying:{name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:Message:now playing {name}61400:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}62752:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}62752::newPlayer:{name}62753:
+0001-01-01 00:00:00:newPlayer:{name}62752::newPlayer:{name}62753:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}62752::newPlayer:{name}62753::newPlayer:{name}62754:
+0001-01-01 00:00:00:newPlayer:{name}62752::newPlayer:{name}62753::newPlayer:{name}62754:
+0001-01-01 00:00:00:newPlayer:{name}62752::newPlayer:{name}62753::newPlayer:{name}62754:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:dice:2:3:210:390:{name}62752
+0001-01-01 00:00:00:dice:2:3:210:390:{name}62752
+0001-01-01 00:00:00:dice:2:3:210:390:{name}62752
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,3:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,3:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,3:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:1:1:210:570:{name}62753
+0001-01-01 00:00:00:dice:1:1:210:570:{name}62753
+0001-01-01 00:00:00:dice:1:1:210:570:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 hamlade på chans:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 2:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 2:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,1:
+0001-01-01 00:00:00:showChansMessage:Du har vunnit andra pris i en skönhetstävling. Inkassera #10:{name}62753:
+0001-01-01 00:00:00:showChansMessage:Du har vunnit andra pris i en skönhetstävling. Inkassera #10:{name}62753:
+0001-01-01 00:00:00:showChansMessage:Du har vunnit andra pris i en skönhetstävling. Inkassera #10:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}62753 text på kortet Du har vunnit andra pris i en skönhetstävling. Inkassera #10:
+0001-01-01 00:00:00:Message:{name}62753 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}62753 text på kortet Du har vunnit andra pris i en skönhetstävling. Inkassera #10:
+0001-01-01 00:00:00:Message:{name}62753 text på kortet Du har vunnit andra pris i en skönhetstävling. Inkassera #10:
+0001-01-01 00:00:00:uppdateMoney:1510:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:1510:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:1510:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:1:5:210:210:{name}62753
+0001-01-01 00:00:00:dice:1:5:210:210:{name}62753
+0001-01-01 00:00:00:dice:1:5:210:210:{name}62753
+0001-01-01 00:00:00:köpaYES/NO:100:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 8:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 8:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 8:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,5:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,5:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,5:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:1:2:210:510:{name}62754
+0001-01-01 00:00:00:dice:1:2:210:510:{name}62754
+0001-01-01 00:00:00:dice:1:2:210:510:{name}62754
+0001-01-01 00:00:00:köpaYES/NO:60:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 3:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 3:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 3:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:uppdateMoney:1440:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:1440:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:1440:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 köpte HORNSGATAN:
+0001-01-01 00:00:00:Message:{name}62754 köpte HORNSGATAN:
+0001-01-01 00:00:00:Message:{name}62754 köpte HORNSGATAN:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:dice:5:5:530:60:{name}62752
+0001-01-01 00:00:00:dice:5:5:530:60:{name}62752
+0001-01-01 00:00:00:dice:5:5:530:60:{name}62752
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog 5,5:
+0001-01-01 00:00:00:Message:{name}62752 slog 5,5:
+0001-01-01 00:00:00:Message:{name}62752 slog 5,5:
+0001-01-01 00:00:00:uppdateMoney:1100:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:1100:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:1100:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:dice:5:5:860:390:{name}62752
+0001-01-01 00:00:00:dice:5:5:860:390:{name}62752
+0001-01-01 00:00:00:dice:5:5:860:390:{name}62752
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62752 slog 5,5:
+0001-01-01 00:00:00:Message:{name}62752 slog 5,5:
+0001-01-01 00:00:00:Message:{name}62752 slog 5,5:
+0001-01-01 00:00:00:uppdateMoney:900:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:900:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:900:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}62752 köpte en tågstation:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62752
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62752
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62752
+0001-01-01 00:00:00:köpaYES/NOWork:150:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:750:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:750:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:750:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte ett statligt verk:
+0001-01-01 00:00:00:Message:{name}62752 köpte ett statligt verk:
+0001-01-01 00:00:00:Message:{name}62752 köpte ett statligt verk:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:1:2:290:60:{name}62753
+0001-01-01 00:00:00:dice:1:2:290:60:{name}62753
+0001-01-01 00:00:00:dice:1:2:290:60:{name}62753
+0001-01-01 00:00:00:köpaYES/NO:140:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 11:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 11:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 11:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:1370:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:1370:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 köpte S:T ERIKSGATAN:
+0001-01-01 00:00:00:Message:{name}62753 köpte S:T ERIKSGATAN:
+0001-01-01 00:00:00:Message:{name}62753 köpte S:T ERIKSGATAN:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:uppdateMoney:1370:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:1:3:210:270:{name}62754
+0001-01-01 00:00:00:dice:1:3:210:270:{name}62754
+0001-01-01 00:00:00:dice:1:3:210:270:{name}62754
+0001-01-01 00:00:00:showChansMessage:Gå fram tre steg.:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på chans:
+0001-01-01 00:00:00:dice:1:3:210:60:{name}62754
+0001-01-01 00:00:00:dice:1:3:210:60:{name}62754
+0001-01-01 00:00:00:dice:1:3:210:60:{name}62754
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 7:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 7:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 7:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,3:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,3:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,3:
+0001-01-01 00:00:00:showChansMessage:Gå fram tre steg.:{name}62754:
+0001-01-01 00:00:00:showChansMessage:Gå fram tre steg.:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}62754 text på kortet Gå fram tre steg.:
+0001-01-01 00:00:00:Message:{name}62754 text på kortet Gå fram tre steg.:
+0001-01-01 00:00:00:Message:{name}62754 text på kortet Gå fram tre steg.:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,3:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,3:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,3:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:dice:2:2:715:715:{name}62752
+0001-01-01 00:00:00:dice:2:2:715:715:{name}62752
+0001-01-01 00:00:00:dice:2:2:715:715:{name}62752
+0001-01-01 00:00:00:köpaYES/NO:300:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 32:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 32:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 32:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,2:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,2:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,2:
+0001-01-01 00:00:00:uppdateMoney:450:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:450:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:450:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte DROTTNINGGATAN:
+0001-01-01 00:00:00:Message:{name}62752 köpte DROTTNINGGATAN:
+0001-01-01 00:00:00:Message:{name}62752 köpte DROTTNINGGATAN:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:dice:1:1:595:715:{name}62752
+0001-01-01 00:00:00:dice:1:1:595:715:{name}62752
+0001-01-01 00:00:00:dice:1:1:595:715:{name}62752
+0001-01-01 00:00:00:köpaYES/NO:320:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 34:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 34:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 34:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:uppdateMoney:130:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:130:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:130:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte DIPLOMATSTADEN:
+0001-01-01 00:00:00:Message:{name}62752 köpte DIPLOMATSTADEN:
+0001-01-01 00:00:00:Message:{name}62752 köpte DIPLOMATSTADEN:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 35:
+0001-01-01 00:00:00:dice:1:0:530:715:{name}62752
+0001-01-01 00:00:00:dice:1:0:530:715:{name}62752
+0001-01-01 00:00:00:dice:1:0:530:715:{name}62752
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 35:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 35:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:1:2:470:60:{name}62753
+0001-01-01 00:00:00:dice:1:2:470:60:{name}62753
+0001-01-01 00:00:00:dice:1:2:470:60:{name}62753
+0001-01-01 00:00:00:köpaYES/NO:160:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:1210:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:1210:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:1210:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 köpte VALHALLAVÄGEN:
+0001-01-01 00:00:00:Message:{name}62753 köpte VALHALLAVÄGEN:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:{name}62753 köpte VALHALLAVÄGEN:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:1:2:410:60:{name}62754
+0001-01-01 00:00:00:dice:1:2:410:60:{name}62754
+0001-01-01 00:00:00:dice:1:2:410:60:{name}62754
+0001-01-01 00:00:00:köpaYES/NO:140:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 13:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 13:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 13:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 köpte ODENGATAN:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62754 köpte ODENGATAN:
+0001-01-01 00:00:00:uppdateMoney:1300:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 köpte ODENGATAN:
+0001-01-01 00:00:00:dice:1:1:410:715:{name}62752
+0001-01-01 00:00:00:dice:1:1:410:715:{name}62752
+0001-01-01 00:00:00:dice:1:1:410:715:{name}62752
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 37:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 37:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 37:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62752 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:dice:2:5:210:450:{name}62752
+0001-01-01 00:00:00:dice:2:5:210:450:{name}62752
+0001-01-01 00:00:00:dice:2:5:210:450:{name}62752
+0001-01-01 00:00:00:uppdateMoney:330:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:330:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:330:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:Message:{name}62752 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,5:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,5:
+0001-01-01 00:00:00:Message:{name}62752 slog 2,5:
+0001-01-01 00:00:00:Message:{name}62752 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}62752 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}62752 förlorade 100kr:
+0001-01-01 00:00:00:uppdateMoney:230:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:230:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:230:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:1:0:530:60:{name}62753
+0001-01-01 00:00:00:dice:1:0:530:60:{name}62753
+0001-01-01 00:00:00:dice:1:0:530:60:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,0:
+0001-01-01 00:00:00:uppdateMoney:1110:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:1110:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:330:{name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:uppdateMoney:330:{name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:uppdateMoney:1110:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:uppdateMoney:330:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:1:0:470:60:{name}62754
+0001-01-01 00:00:00:dice:1:0:470:60:{name}62754
+0001-01-01 00:00:00:dice:1:0:470:60:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:dice:9:0:410:60:{name}62752
+0001-01-01 00:00:00:dice:9:0:410:60:{name}62752
+0001-01-01 00:00:00:dice:9:0:410:60:{name}62752
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 13:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 13:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 13:
+0001-01-01 00:00:00:Message:{name}62752 slog 9,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 9,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 9,0:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:4:0:775:60:{name}62753
+0001-01-01 00:00:00:dice:4:0:775:60:{name}62753
+0001-01-01 00:00:00:dice:4:0:775:60:{name}62753
+0001-01-01 00:00:00:köpaYES/NO:200:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}62753 slog 4,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 4,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 4,0:
+0001-01-01 00:00:00:uppdateMoney:910:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:910:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:910:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 köpte NARVAVÄGEN:
+0001-01-01 00:00:00:Message:{name}62753 köpte NARVAVÄGEN:
+0001-01-01 00:00:00:Message:{name}62753 köpte NARVAVÄGEN:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:4:1:795:60:{name}62754
+0001-01-01 00:00:00:dice:4:1:795:60:{name}62754
+0001-01-01 00:00:00:dice:4:1:795:60:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}62754 slog 4,1:
+0001-01-01 00:00:00:Message:{name}62754 slog 4,1:
+0001-01-01 00:00:00:Message:{name}62754 slog 4,1:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 19:
+0001-01-01 00:00:00:dice:6:0:755:60:{name}62752
+0001-01-01 00:00:00:dice:6:0:755:60:{name}62752
+0001-01-01 00:00:00:dice:6:0:755:60:{name}62752
+0001-01-01 00:00:00:Message:{name}62752 slog 6,0:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}62752 slog 6,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 6,0:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:6:0:860:390:{name}62753
+0001-01-01 00:00:00:dice:6:0:860:390:{name}62753
+0001-01-01 00:00:00:dice:6:0:860:390:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62753 slog 6,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 6,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 6,0:
+0001-01-01 00:00:00:uppdateMoney:810:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:810:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:810:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:430:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:430:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:430:{name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:dice:1:0:860:60:{name}62754
+0001-01-01 00:00:00:dice:1:0:860:60:{name}62754
+0001-01-01 00:00:00:dice:1:0:860:60:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 20:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 20:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 20:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på fri pakering:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på fri pakering:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på fri pakering:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:dice:1:1:860:148:{name}62752
+0001-01-01 00:00:00:dice:1:1:860:148:{name}62752
+0001-01-01 00:00:00:dice:1:1:860:148:{name}62752
+0001-01-01 00:00:00:köpaYES/NO:220:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 21:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 21:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 21:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:uppdateMoney:210:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:210:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte STRANDVÄGEN:
+0001-01-01 00:00:00:uppdateMoney:210:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte STRANDVÄGEN:
+0001-01-01 00:00:00:Message:{name}62752 köpte STRANDVÄGEN:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:dice:1:0:860:210:{name}62752
+0001-01-01 00:00:00:dice:1:0:860:210:{name}62752
+0001-01-01 00:00:00:dice:1:0:860:210:{name}62752
+0001-01-01 00:00:00:dice:1:0:860:325:{name}62752
+0001-01-01 00:00:00:dice:1:0:860:325:{name}62752
+0001-01-01 00:00:00:dice:1:0:860:325:{name}62752
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 22:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 22:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 22:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:showChansMessage:Gå vidare till hamngatan. Om du passerar gå inkassera #200:{name}62752:
+0001-01-01 00:00:00:showChansMessage:Gå vidare till hamngatan. Om du passerar gå inkassera #200:{name}62752:
+0001-01-01 00:00:00:showChansMessage:Gå vidare till hamngatan. Om du passerar gå inkassera #200:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}62752 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}62752 hamlade på chans:
+0001-01-01 00:00:00:Message:{name}62752 text på kortet Gå vidare till hamngatan. Om du passerar gå inkassera #200:
+0001-01-01 00:00:00:Message:{name}62752 text på kortet Gå vidare till hamngatan. Om du passerar gå inkassera #200:
+0001-01-01 00:00:00:Message:{name}62752 text på kortet Gå vidare till hamngatan. Om du passerar gå inkassera #200:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 24:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 24:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 24:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62753
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62753
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:762:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:762:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:258:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:762:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:258:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:258:{name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 48 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 48 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 48 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:3:3:860:450:{name}62754
+0001-01-01 00:00:00:dice:3:3:860:450:{name}62754
+0001-01-01 00:00:00:dice:3:3:860:450:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 slog 3,3:
+0001-01-01 00:00:00:köpaYES/NO:260:
+0001-01-01 00:00:00:Message:{name}62754 slog lika:
+0001-01-01 00:00:00:Message:{name}62754 slog lika:
+0001-01-01 00:00:00:Message:{name}62754 slog lika:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 26:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 26:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 26:
+0001-01-01 00:00:00:Message:{name}62754 slog 3,3:
+0001-01-01 00:00:00:Message:{name}62754 slog 3,3:
+0001-01-01 00:00:00:uppdateMoney:1040:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:1040:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 köpte VASAGATAN:
+0001-01-01 00:00:00:Message:{name}62754 köpte VASAGATAN:
+0001-01-01 00:00:00:Message:{name}62754 köpte VASAGATAN:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:uppdateMoney:1040:{name}62754:
+0001-01-01 00:00:00:dice:1:0:860:510:{name}62754
+0001-01-01 00:00:00:dice:1:0:860:510:{name}62754
+0001-01-01 00:00:00:dice:1:0:860:510:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:köpaYES/NO:260:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 27:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 27:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 27:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:uppdateMoney:780:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:780:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 köpte KUNGSGATAN:
+0001-01-01 00:00:00:Message:{name}62754 köpte KUNGSGATAN:
+0001-01-01 00:00:00:Message:{name}62754 köpte KUNGSGATAN:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:uppdateMoney:780:{name}62754:
+0001-01-01 00:00:00:dice:1:1:860:450:{name}62752
+0001-01-01 00:00:00:dice:1:1:860:450:{name}62752
+0001-01-01 00:00:00:dice:1:1:860:450:{name}62752
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 slog lika:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 26:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 26:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 26:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,1:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 30:
+0001-01-01 00:00:00:dice:4:0:860:715:{name}62752
+0001-01-01 00:00:00:dice:4:0:860:715:{name}62752
+0001-01-01 00:00:00:dice:4:0:860:715:{name}62752
+0001-01-01 00:00:00:dice:4:0:210:60:{name}62752
+0001-01-01 00:00:00:dice:4:0:210:60:{name}62752
+0001-01-01 00:00:00:dice:4:0:210:60:{name}62752
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}62752 slog 4,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 4,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 4,0:
+0001-01-01 00:00:00:Message:{name}62752 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62752 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62752 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62752 slog 4,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 4,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 4,0:
+0001-01-01 00:00:00:Message:{name}62752 hamlade på bara på besök:
+0001-01-01 00:00:00:Message:{name}62752 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:{name}62752 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:1:1:860:640:{name}62754
+0001-01-01 00:00:00:dice:1:1:860:640:{name}62754
+0001-01-01 00:00:00:dice:1:1:860:640:{name}62754
+0001-01-01 00:00:00:köpaYES/NO:280:
+0001-01-01 00:00:00:Message:{name}62754 slog lika:
+0001-01-01 00:00:00:Message:{name}62754 slog lika:
+0001-01-01 00:00:00:Message:{name}62754 slog lika:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 29:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 29:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 29:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,1:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,1:
+0001-01-01 00:00:00:fullColor:6:
+0001-01-01 00:00:00:uppdateMoney:500:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:500:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:500:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 köpte STUREPLAN:
+0001-01-01 00:00:00:Message:{name}62754 köpte STUREPLAN:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 köpte STUREPLAN:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:1:0:860:715:{name}62754
+0001-01-01 00:00:00:dice:1:0:860:715:{name}62754
+0001-01-01 00:00:00:dice:1:0:860:715:{name}62754
+0001-01-01 00:00:00:dice:1:0:230:60:{name}62754
+0001-01-01 00:00:00:dice:1:0:230:60:{name}62754
+0001-01-01 00:00:00:dice:1:0:230:60:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62754 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:2:1:775:715:{name}62753
+0001-01-01 00:00:00:dice:2:1:775:715:{name}62753
+0001-01-01 00:00:00:dice:2:1:775:715:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 slog 2,1:
+0001-01-01 00:00:00:köpaYES/NO:300:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 31:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 31:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 31:
+0001-01-01 00:00:00:Message:{name}62753 slog 2,1:
+0001-01-01 00:00:00:Message:{name}62753 slog 2,1:
+0001-01-01 00:00:00:uppdateMoney:462:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 köpte GUSTAV ADOLFS TORG:
+0001-01-01 00:00:00:Message:{name}62753 köpte GUSTAV ADOLFS TORG:
+0001-01-01 00:00:00:Message:{name}62753 köpte GUSTAV ADOLFS TORG:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:uppdateMoney:462:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:462:{name}62753:
+0001-01-01 00:00:00:dice:10:10:860:715:{name}62754
+0001-01-01 00:00:00:dice:10:10:860:715:{name}62754
+0001-01-01 00:00:00:dice:10:10:860:715:{name}62754
+0001-01-01 00:00:00:dice:10:10:230:60:{name}62754
+0001-01-01 00:00:00:dice:10:10:230:60:{name}62754
+0001-01-01 00:00:00:dice:10:10:230:60:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 slog lika och lämnade fängelset:
+0001-01-01 00:00:00:Message:{name}62754 slog lika och lämnade fängelset:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 30:
+0001-01-01 00:00:00:Message:{name}62754 slog lika och lämnade fängelset:
+0001-01-01 00:00:00:Message:{name}62754 slog 10,10:
+0001-01-01 00:00:00:Message:{name}62754 slog 10,10:
+0001-01-01 00:00:00:Message:{name}62754 slog 10,10:
+0001-01-01 00:00:00:Message:{name}62754 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 10:
+0001-01-01 00:00:00:Message:{name}62754 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62754 gick i fängelse:
+0001-01-01 00:00:00:Message:{name}62754 slog 10,10:
+0001-01-01 00:00:00:Message:{name}62754 slog 10,10:
+0001-01-01 00:00:00:Message:{name}62754 slog 10,10:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:{name}62754 hamlade på bara på besök:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:2:2:530:715:{name}62753
+0001-01-01 00:00:00:dice:2:2:530:715:{name}62753
+0001-01-01 00:00:00:dice:2:2:530:715:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 slog 2,2:
+0001-01-01 00:00:00:köpaYES/NOTrain:200:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 35:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 35:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 35:
+0001-01-01 00:00:00:Message:{name}62753 slog 2,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 2,2:
+0001-01-01 00:00:00:uppdateMoney:262:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:262:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:262:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}62753 köpte en tågstation:
+0001-01-01 00:00:00:Message:{name}62753 köpte en tågstation:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:1:2:350:715:{name}62753
+0001-01-01 00:00:00:dice:1:2:350:715:{name}62753
+0001-01-01 00:00:00:dice:1:2:350:715:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 38:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 38:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 38:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62753 förlorade 100kr:
+0001-01-01 00:00:00:uppdateMoney:162:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 förlorade 100kr:
+0001-01-01 00:00:00:uppdateMoney:162:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:uppdateMoney:162:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 förlorade 100kr:
+0001-01-01 00:00:00:payToGetOut:
+0001-01-01 00:00:00:dice:2:3:230:60:{name}62754
+0001-01-01 00:00:00:dice:2:3:230:60:{name}62754
+0001-01-01 00:00:00:dice:2:3:230:60:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 15:
+0001-01-01 00:00:00:dice:2:3:530:60:{name}62754
+0001-01-01 00:00:00:dice:2:3:530:60:{name}62754
+0001-01-01 00:00:00:dice:2:3:530:60:{name}62754
+0001-01-01 00:00:00:uppdateMoney:450:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:450:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 betalade 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}62754 betalade 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}62754 betalade 50kr för att lämna fängelset:
+0001-01-01 00:00:00:uppdateMoney:450:{name}62754:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62754 slog 2,3:
+0001-01-01 00:00:00:Message:{name}62754 slog 2,3:
+0001-01-01 00:00:00:Message:{name}62754 slog 2,3:
+0001-01-01 00:00:00:uppdateMoney:350:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:350:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:358:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:358:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:358:{name}62752:
+0001-01-01 00:00:00:Message:{name}62754 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62754 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62754 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:uppdateMoney:350:{name}62754:
+0001-01-01 00:00:00:dice:1:3:210:60:{name}62752
+0001-01-01 00:00:00:dice:1:3:210:60:{name}62752
+0001-01-01 00:00:00:payToGetOut:
+0001-01-01 00:00:00:dice:1:3:210:60:{name}62752
+0001-01-01 00:00:00:uppdateMoney:308:{name}62752:
+0001-01-01 00:00:00:dice:1:3:470:60:{name}62752
+0001-01-01 00:00:00:dice:1:3:470:60:{name}62752
+0001-01-01 00:00:00:dice:1:3:470:60:{name}62752
+0001-01-01 00:00:00:uppdateMoney:308:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:308:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 betalade 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}62752 betalade 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}62752 betalade 50kr för att lämna fängelset:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 14:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,3:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,3:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,3:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:3:3:210:450:{name}62753
+0001-01-01 00:00:00:dice:3:3:210:450:{name}62753
+0001-01-01 00:00:00:dice:3:3:210:450:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 slog 3,3:
+0001-01-01 00:00:00:Message:{name}62753 förlorade 100kr:
+0001-01-01 00:00:00:uppdateMoney:262:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:uppdateMoney:362:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:362:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:362:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:Message:{name}62753 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:Message:{name}62753 fick 200kr för att gå över gå:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}62753 slog 3,3:
+0001-01-01 00:00:00:Message:{name}62753 slog 3,3:
+0001-01-01 00:00:00:Message:{name}62753 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}62753 förlorade 100kr:
+0001-01-01 00:00:00:uppdateMoney:262:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:262:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 5:
+0001-01-01 00:00:00:dice:1:0:210:390:{name}62753
+0001-01-01 00:00:00:dice:1:0:210:390:{name}62753
+0001-01-01 00:00:00:dice:1:0:210:390:{name}62753
+0001-01-01 00:00:00:uppdateMoney:408:{name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 5:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 1,0:
+0001-01-01 00:00:00:uppdateMoney:162:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:162:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:408:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:408:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:162:{name}62753:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:dice:10:0:860:390:{name}62754
+0001-01-01 00:00:00:dice:10:0:860:390:{name}62754
+0001-01-01 00:00:00:dice:10:0:860:390:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 slog 10,0:
+0001-01-01 00:00:00:Message:{name}62754 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62754 slog 10,0:
+0001-01-01 00:00:00:Message:{name}62754 slog 10,0:
+0001-01-01 00:00:00:uppdateMoney:250:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:250:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:250:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:Message:{name}62754 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:{name}62754 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:dice:1:0:530:60:{name}62752
+0001-01-01 00:00:00:dice:1:0:530:60:{name}62752
+0001-01-01 00:00:00:dice:1:0:530:60:{name}62752
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,0:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:508:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62752 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62752 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:10:0:550:60:{name}62753
+0001-01-01 00:00:00:dice:10:0:550:60:{name}62753
+0001-01-01 00:00:00:dice:10:0:550:60:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 15:
+0001-01-01 00:00:00:Message:{name}62753 slog 10,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 10,0:
+0001-01-01 00:00:00:Message:{name}62753 slog 10,0:
+0001-01-01 00:00:00:uppdateMoney:62:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:62:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:608:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:608:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:608:{name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:uppdateMoney:62:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:Message:now playing {name}62754:
+0001-01-01 00:00:00:nowPlaying:{name}62754:
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62754
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62754
+0001-01-01 00:00:00:dice:1:2:860:570:{name}62754
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:222:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:636:{name}62752:
+0001-01-01 00:00:00:Message:{name}62754 betalade 28 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62754 gick till platta 28:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62754 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:222:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:222:{name}62754:
+0001-01-01 00:00:00:uppdateMoney:636:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:636:{name}62752:
+0001-01-01 00:00:00:Message:{name}62754 betalade 28 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:{name}62754 betalade 28 till {name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62752:
+0001-01-01 00:00:00:Message:now playing {name}62752:
+0001-01-01 00:00:00:dice:1:2:715:60:{name}62752
+0001-01-01 00:00:00:dice:1:2:715:60:{name}62752
+0001-01-01 00:00:00:dice:1:2:715:60:{name}62752
+0001-01-01 00:00:00:köpaYES/NO:180:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 18:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 18:
+0001-01-01 00:00:00:Message:{name}62752 gick till platta 18:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,2:
+0001-01-01 00:00:00:Message:{name}62752 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:456:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:456:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:456:{name}62752:
+0001-01-01 00:00:00:Message:{name}62752 köpte KARLAVÄGEN:
+0001-01-01 00:00:00:Message:{name}62752 köpte KARLAVÄGEN:
+0001-01-01 00:00:00:Message:{name}62752 köpte KARLAVÄGEN:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:dice:5:5:860:390:{name}62753
+0001-01-01 00:00:00:dice:5:5:860:390:{name}62753
+0001-01-01 00:00:00:dice:5:5:860:390:{name}62753
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 gick till platta 25:
+0001-01-01 00:00:00:Message:{name}62753 slog lika:
+0001-01-01 00:00:00:Message:{name}62753 slog 5,5:
+0001-01-01 00:00:00:Message:{name}62753 slog 5,5:
+0001-01-01 00:00:00:Message:{name}62753 slog 5,5:
+0001-01-01 00:00:00:uppdateMoney:-38:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:-38:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:-38:{name}62753:
+0001-01-01 00:00:00:uppdateMoney:556:{name}62752:
+0001-01-01 00:00:00:uppdateMoney:556:{name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:Message:{name}62753 betalade 100 till {name}62752:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:nowPlaying:{name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:Message:now playing {name}62753:
+0001-01-01 00:00:00:uppdateMoney:556:{name}62752:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63400:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63400::newPlayer:{name}63404:
+0001-01-01 00:00:00:newPlayer:{name}63400::newPlayer:{name}63404:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63400::newPlayer:{name}63404::newPlayer:{name}63405:
+0001-01-01 00:00:00:newPlayer:{name}63400::newPlayer:{name}63404::newPlayer:{name}63405:
+0001-01-01 00:00:00:newPlayer:{name}63400::newPlayer:{name}63404::newPlayer:{name}63405:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}63405:
+0001-01-01 00:00:00:nowPlaying:{name}63405:
+0001-01-01 00:00:00:nowPlaying:{name}63405:
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63405
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63405
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63405
+0001-01-01 00:00:00:Message:{name}63405 slog 1,3:
+0001-01-01 00:00:00:Message:{name}63405 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63405 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63405 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63405 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63405 slog 1,3:
+0001-01-01 00:00:00:Message:{name}63405 slog 1,3:
+0001-01-01 00:00:00:Message:{name}63405 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63405 förlorade 100kr:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63405:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63405:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63405:
+0001-01-01 00:00:00:nowPlaying:{name}63400:
+0001-01-01 00:00:00:nowPlaying:{name}63400:
+0001-01-01 00:00:00:nowPlaying:{name}63400:
+0001-01-01 00:00:00:Message:now playing {name}63400:
+0001-01-01 00:00:00:Message:now playing {name}63400:
+0001-01-01 00:00:00:Message:now playing {name}63400:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63442:
+0001-01-01 00:00:00:newPlayer:{name}63442::newPlayer:{name}63443:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63442::newPlayer:{name}63443:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63442::newPlayer:{name}63443::newPlayer:{name}63445:
+0001-01-01 00:00:00:newPlayer:{name}63442::newPlayer:{name}63443::newPlayer:{name}63445:
+0001-01-01 00:00:00:newPlayer:{name}63442::newPlayer:{name}63443::newPlayer:{name}63445:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}63443:
+0001-01-01 00:00:00:nowPlaying:{name}63443:
+0001-01-01 00:00:00:nowPlaying:{name}63443:
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63443
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63443
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63443
+0001-01-01 00:00:00:Message:{name}63443 slog 1,3:
+0001-01-01 00:00:00:Message:{name}63443 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63443 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63443 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63443 slog 1,3:
+0001-01-01 00:00:00:Message:{name}63443 slog 1,3:
+0001-01-01 00:00:00:Message:{name}63443 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63443 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63443 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Message:{name}63443 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Message:{name}63443 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:uppdateMoney:-500:{name}63443:
+0001-01-01 00:00:00:uppdateMoney:-500:{name}63443:
+0001-01-01 00:00:00:uppdateMoney:-500:{name}63443:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:{name}63443 förlorade 100kr:
+0001-01-01 00:00:00:dice:1:5:210:325:{name}63445
+0001-01-01 00:00:00:dice:1:5:210:325:{name}63445
+0001-01-01 00:00:00:dice:1:5:210:325:{name}63445
+0001-01-01 00:00:00:köpaYES/NO:100:
+0001-01-01 00:00:00:Message:{name}63445 gick till platta 6:
+0001-01-01 00:00:00:Message:{name}63445 gick till platta 6:
+0001-01-01 00:00:00:Message:{name}63445 gick till platta 6:
+0001-01-01 00:00:00:Message:{name}63445 slog 1,5:
+0001-01-01 00:00:00:Message:{name}63445 slog 1,5:
+0001-01-01 00:00:00:Message:{name}63445 slog 1,5:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63445:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63445:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63445:
+0001-01-01 00:00:00:Message:{name}63445 köpte FOLKUNGAGATAN:
+0001-01-01 00:00:00:Message:{name}63445 köpte FOLKUNGAGATAN:
+0001-01-01 00:00:00:Message:{name}63445 köpte FOLKUNGAGATAN:
+0001-01-01 00:00:00:nowPlaying:{name}63442:
+0001-01-01 00:00:00:nowPlaying:{name}63442:
+0001-01-01 00:00:00:nowPlaying:{name}63442:
+0001-01-01 00:00:00:Message:now playing {name}63442:
+0001-01-01 00:00:00:Message:now playing {name}63442:
+0001-01-01 00:00:00:Message:now playing {name}63442:
+0001-01-01 00:00:00:dice:1:8:210:148:{name}63442
+0001-01-01 00:00:00:dice:1:8:210:148:{name}63442
+0001-01-01 00:00:00:dice:1:8:210:148:{name}63442
+0001-01-01 00:00:00:Message:{name}63442 slog 1,8:
+0001-01-01 00:00:00:köpaYES/NO:100:
+0001-01-01 00:00:00:Message:{name}63442 gick till platta 9:
+0001-01-01 00:00:00:Message:{name}63442 gick till platta 9:
+0001-01-01 00:00:00:Message:{name}63442 gick till platta 9:
+0001-01-01 00:00:00:Message:{name}63442 slog 1,8:
+0001-01-01 00:00:00:Message:{name}63442 slog 1,8:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63442:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63442:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}63442:
+0001-01-01 00:00:00:Message:{name}63442 köpte RINGVÄGEN:
+0001-01-01 00:00:00:Message:{name}63442 köpte RINGVÄGEN:
+0001-01-01 00:00:00:Message:{name}63442 köpte RINGVÄGEN:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:dice:5:8:775:60:{name}63445
+0001-01-01 00:00:00:dice:5:8:775:60:{name}63445
+0001-01-01 00:00:00:dice:5:8:775:60:{name}63445
+0001-01-01 00:00:00:köpaYES/NO:200:
+0001-01-01 00:00:00:Message:{name}63445 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}63445 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}63445 gick till platta 19:
+0001-01-01 00:00:00:Message:{name}63445 slog 5,8:
+0001-01-01 00:00:00:Message:{name}63445 slog 5,8:
+0001-01-01 00:00:00:Message:{name}63445 slog 5,8:
+0001-01-01 00:00:00:uppdateMoney:1200:{name}63445:
+0001-01-01 00:00:00:uppdateMoney:1200:{name}63445:
+0001-01-01 00:00:00:uppdateMoney:1200:{name}63445:
+0001-01-01 00:00:00:Message:{name}63445 köpte NARVAVÄGEN:
+0001-01-01 00:00:00:Message:{name}63445 köpte NARVAVÄGEN:
+0001-01-01 00:00:00:Message:{name}63445 köpte NARVAVÄGEN:
+0001-01-01 00:00:00:nowPlaying:{name}63442:
+0001-01-01 00:00:00:nowPlaying:{name}63442:
+0001-01-01 00:00:00:nowPlaying:{name}63442:
+0001-01-01 00:00:00:Message:now playing {name}63442:
+0001-01-01 00:00:00:Message:now playing {name}63442:
+0001-01-01 00:00:00:Message:now playing {name}63442:
+0001-01-01 00:00:00:dice:4:-1:230:450:{name}63442
+0001-01-01 00:00:00:dice:4:-1:230:450:{name}63442
+0001-01-01 00:00:00:dice:4:-1:230:450:{name}63442
+0001-01-01 00:00:00:Message:{name}63442 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Message:{name}63442 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63442 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63442 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63442 slog 4,-1:
+0001-01-01 00:00:00:Message:{name}63442 slog 4,-1:
+0001-01-01 00:00:00:Message:{name}63442 slog 4,-1:
+0001-01-01 00:00:00:Message:{name}63442 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63442 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63442 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63442 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Message:{name}63442 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Message:{name}63445 van denna rundan:
+0001-01-01 00:00:00:Message:{name}63445 van denna rundan:
+0001-01-01 00:00:00:Message:{name}63445 van denna rundan:
+0001-01-01 00:00:00:Winner:{name}63442:
+0001-01-01 00:00:00:Winner:{name}63442:
+0001-01-01 00:00:00:Winner:{name}63442:
+0001-01-01 00:00:00:uppdateMoney:-600:{name}63442:
+0001-01-01 00:00:00:uppdateMoney:-600:{name}63442:
+0001-01-01 00:00:00:uppdateMoney:-600:{name}63442:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:nowPlaying:{name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:Message:now playing {name}63445:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63528:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}63528:
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63528
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63542:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63542::newPlayer:{name}63543:
+0001-01-01 00:00:00:newPlayer:{name}63542::newPlayer:{name}63543:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}63542:
+0001-01-01 00:00:00:nowPlaying:{name}63542:
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63542
+0001-01-01 00:00:00:dice:1:3:210:450:{name}63542
+0001-01-01 00:00:00:Message:{name}63542 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63542 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}63542 slog 1,3:
+0001-01-01 00:00:00:Message:{name}63542 slog 1,3:
+0001-01-01 00:00:00:Message:{name}63542 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63542 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}63542 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Message:{name}63542 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Lost:{name}63542:
+0001-01-01 00:00:00:Lost:{name}63542:
+0001-01-01 00:00:00:Message:{name}63543 van denna rundan:
+0001-01-01 00:00:00:Message:{name}63543 van denna rundan:
+0001-01-01 00:00:00:Winner:{name}63543:
+0001-01-01 00:00:00:Winner:{name}63543:
+0001-01-01 00:00:00:uppdateMoney:-500:{name}63542:
+0001-01-01 00:00:00:uppdateMoney:-500:{name}63542:
+0001-01-01 00:00:00:nowPlaying:{name}63543:
+0001-01-01 00:00:00:nowPlaying:{name}63543:
+0001-01-01 00:00:00:Message:now playing {name}63543:
+0001-01-01 00:00:00:Message:now playing {name}63543:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63689:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697::newPlayer:{name}63701:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697::newPlayer:{name}63701:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697::newPlayer:{name}63701:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697::newPlayer:{name}63701:
+0001-01-01 00:00:00:newPlayer:{name}63689::newPlayer:{name}63692::newPlayer:{name}63695::newPlayer:{name}63697::newPlayer:{name}63701:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}63945:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}64710:
+0001-01-01 00:00:00:closewindow::
