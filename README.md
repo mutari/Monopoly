@@ -1,16 +1,6 @@
-
-<div style="border: solid 1px red">
-  <h1>monopol</h1>
-  Detta är mitt slutprodject till programmering 2
-  Det är en monopol variant med alla regler som jag han lägga till
-</div>
-
-## **Regler**/**Funktioner**
-+ Kasta tärningar
-+ liten pjäs som flytar efter pixlar
-+ möjligheten att ändra reglerna på spelplanen utan att kompalera om programmet med hjälp av spelets inbygda **ConfParser** tack vare den kan man ändra i filen **Plate.conf** och få en helt ny spelplan upplevelse med nya placeringar av hus samt nya priser/ namn och händelser
-+ samma system används till korten vilket gör så att man kan skriva om alla korten och ändra kotens funktioner
-
+# monopol
+Detta är mitt slutprodject till programmering 2
+Det är en monopol variant med alla regler som jag han lägga till (flera kommer)
 
 ## Försat planering och nu
 
