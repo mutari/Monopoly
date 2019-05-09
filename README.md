@@ -30,6 +30,6 @@ min Player, Game och Plate class ser nästan identiska ut i genfört med hur jag
 * #### inte bra
   * för att ta emot kommandon i från klienten eller serverna har jag skrivit en parser funktion och är osäker på om detta är det besta tilvägargångsättet då det blir väldigt o optimera och segt tack vare alla i if statment. Men det är ett system som är hyfsat lätt förståligt samt fungerande och lätt att be bugga.
   
-* ### bar
- * i Game classen finns det en parser och en EXE funktion och tack vere dessa funktioner så om jag skulle ändra något prise, namn eller platta över huvud taget så när man startar spelet uppdateras spelet med de nya platt informationen vilket kan leda till en ny spelupplevelse då det kan vara helt nya värden.
- * Jag använder samma system till minna spel kort vilket gör så att man kan ta bort och skapa ny kort.
+* ### bra
+  * i Game classen finns det en parser och en EXE funktion och tack vere dessa funktioner så om jag skulle ändra något prise, namn eller platta över huvud taget så när man startar spelet uppdateras spelet med de nya platt informationen vilket kan leda till en ny spelupplevelse då det kan vara helt nya värden.
+  * Jag använder samma system till minna spel kort vilket gör så att man kan ta bort och skapa ny kort.
