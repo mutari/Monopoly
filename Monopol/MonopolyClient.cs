@@ -9,23 +9,12 @@ using System.Net;
 using System.Drawing;
 using System.Net.Sockets;
 
-
-
-/*
- * todo -
- * bugg med att man inte fastnar i fängelse av kortet gå i fängelse     
- * testa bugg med att slå lika och det hoppar diräkt till nästa spelare
- * 
- */
-
-
-
 namespace Monopol
 {
     class MonopolyClient
     {
         TcpClient client;
-        IPAddress IpAddress;
+        IPAddress ipAddress;
         int port;
         NetworkStream stream;
         private string myName;
@@ -36,7 +25,7 @@ namespace Monopol
         {
             this.port = port;
             this.form = form;
-            IpAddress = IPAddress.Parse(ipaddress);
+            ipAddress = IPAddress.Parse(ipaddress);
             client = new TcpClient();
             client.NoDelay = true;
             Game.GameRunning = true;
@@ -46,7 +35,7 @@ namespace Monopol
         {
             try
             {
-                await client.ConnectAsync(IpAddress, port);
+                await client.ConnectAsync(ipAddress, port);
                 stream = client.GetStream();
                 myName = "{name}" + ((IPEndPoint)client.Client.LocalEndPoint).Port.ToString();
                 startaAsyncSkrivning("newPlayer:" + myName);

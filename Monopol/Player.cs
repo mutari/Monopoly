@@ -22,18 +22,13 @@ namespace Monopol
         public int x; // spelarens kordinater
         public int y;
         public TcpClient client = null;
-        public bool Playing = true;
+        public bool playing = true;
 
         public Player() { }
 
-        public Player(TcpClient c) : this()
+        public Player(TcpClient c)
         {
             this.client = c;
-        }
-
-        public void play()
-        {
-            Console.Write("Din runda");
         }
     }
 }

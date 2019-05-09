@@ -408,7 +408,7 @@ namespace Monopol
                 for (int i = 0; i < Game.Players.Count; i++)
                 {
                     //hoppar över alla splerae som har förlorat och inte spelar längre
-                    if (!Game.Players.ElementAt(Game.NowPlaying).Playing)
+                    if (!Game.Players.ElementAt(Game.NowPlaying).playing)
                     { 
                         nextPlayer();
                         break;
@@ -743,7 +743,7 @@ namespace Monopol
             //testar om spelaren har förlorat alla sina pengar
             if (p.money <= 0)
             {
-                p.Playing = false;
+                p.playing = false;
                 Game.AmountOfPlayersLeft--;
                 writeAsyncToAllPlayers(":Message:" + p.name + " förlorade alla sinna pengar och är därför ute ur spelet:");
                 writeAsyncToAllPlayers(":Lost:" + p.name + ":");
@@ -751,7 +751,7 @@ namespace Monopol
             if (Game.AmountOfPlayersLeft == 1)
             {
                 for (int i = 0; i < Game.Players.Count; i++)
-                    if (Game.Players.ElementAt(i).Playing)
+                    if (Game.Players.ElementAt(i).playing)
                     {
                         writeAsyncToAllPlayers(":Message:" + Game.Players.ElementAt(i).name + " van denna rundan:");
                         writeAsyncToAllPlayers(":Winner:" + Game.Players.ElementAt(i).name + ":");

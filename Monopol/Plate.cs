@@ -20,11 +20,6 @@ namespace Monopol
         //var figuren ska tå på plattan
         public int x, y;
 
-        public virtual int Event(Player client)
-        {
-            return 0;
-        }
-
         public virtual int ToPay()
         {
             return 0;
@@ -61,11 +56,6 @@ namespace Monopol
         public int undoMortageValue;
         public int prise; //vad det kostar att köpa plattan
 
-        public override int Event(Player player)
-        {
-            return 0;
-        }
-
         public override int ToPay()
         {
             return 0;
@@ -78,16 +68,6 @@ namespace Monopol
         public int housePrise = 0;
         public int amountOfHouses = 0;
         public int colorID; //vilken färg grup plattan tilhör
-
-        public bool buyHouse(Player player)
-        {
-            return false;
-        }
-
-        public override int Event(Player player)
-        {
-            return 0;
-        }
 
         public override int ToPay() 
         {
@@ -118,11 +98,6 @@ namespace Monopol
     {
         public int[] rent = new int[4];
 
-        public override int Event(Player player)
-        {
-            return base.Event(player);
-        }
-
         public override int ToPay()
         {
             int toPay = 0;
@@ -152,11 +127,6 @@ namespace Monopol
             toPay = owner.amountOfStateHouses == 1 ? (r.Next(12) + 1) * 4 : (owner.amountOfStateHouses == 2 ? (r.Next(12)+1) * 10 : 0);
 
             return toPay;
-        }
-
-        public override int Event(Player player)
-        {
-            return base.Event(player);
         }
 
         public override string ToString()

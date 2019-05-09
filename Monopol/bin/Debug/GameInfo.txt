@@ -2078,3 +2078,6 @@ now playing {name}57651
 0001-01-01 00:00:00:uppdateConections:
 0001-01-01 00:00:00:newPlayer:{name}64710:
 0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:newPlayer:{name}64869:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:closewindow::
