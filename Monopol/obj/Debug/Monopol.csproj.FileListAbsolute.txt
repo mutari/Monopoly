@@ -8,3 +8,13 @@ C:\Users\phijoh0131\Desktop\Monopoly\Monopol\bin\Debug\Monopol.pdb
 C:\Users\phijoh0131\Desktop\Monopoly\Monopol\obj\Debug\Monopol.exe
 C:\Users\phijoh0131\Desktop\Monopoly\Monopol\obj\Debug\Monopol.pdb
 C:\Users\phijoh0131\Desktop\Monopoly\Monopol\obj\Debug\Monopol.csprojAssemblyReference.cache
+C:\Users\phijoh0131\Desktop\monopol\Monopol\bin\Debug\Monopol.exe.config
+C:\Users\phijoh0131\Desktop\monopol\Monopol\bin\Debug\Monopol.exe
+C:\Users\phijoh0131\Desktop\monopol\Monopol\bin\Debug\Monopol.pdb
+C:\Users\phijoh0131\Desktop\monopol\Monopol\obj\Debug\Monopol.csprojAssemblyReference.cache
+C:\Users\phijoh0131\Desktop\monopol\Monopol\obj\Debug\Monopol.MonopolyWindow.resources
+C:\Users\phijoh0131\Desktop\monopol\Monopol\obj\Debug\Monopol.Properties.Resources.resources
+C:\Users\phijoh0131\Desktop\monopol\Monopol\obj\Debug\Monopol.csproj.GenerateResource.cache
+C:\Users\phijoh0131\Desktop\monopol\Monopol\obj\Debug\Monopol.csproj.CoreCompileInputs.cache
+C:\Users\phijoh0131\Desktop\monopol\Monopol\obj\Debug\Monopol.exe
+C:\Users\phijoh0131\Desktop\monopol\Monopol\obj\Debug\Monopol.pdb

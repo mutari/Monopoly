@@ -2081,3 +2081,81 @@ now playing {name}57651
 0001-01-01 00:00:00:newPlayer:{name}64869:
 0001-01-01 00:00:00:uppdateConections:
 0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}49502:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}49533:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}49533::newPlayer:{name}49534:
+0001-01-01 00:00:00:newPlayer:{name}49533::newPlayer:{name}49534:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}49534:
+0001-01-01 00:00:00:nowPlaying:{name}49534:
+0001-01-01 00:00:00:dice:3:1:210:450:{name}49534
+0001-01-01 00:00:00:dice:3:1:210:450:{name}49534
+0001-01-01 00:00:00:Message:{name}49534 slog 3,1:
+0001-01-01 00:00:00:Winner:{name}49533:
+0001-01-01 00:00:00:Message:{name}49534 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}49534 gick till platta 4:
+0001-01-01 00:00:00:Message:{name}49534 slog 3,1:
+0001-01-01 00:00:00:Message:{name}49534 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}49534 förlorade 100kr:
+0001-01-01 00:00:00:Message:{name}49534 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Message:{name}49534 förlorade alla sinna pengar och är därför ute ur spelet:
+0001-01-01 00:00:00:Lost:{name}49534:
+0001-01-01 00:00:00:Lost:{name}49534:
+0001-01-01 00:00:00:Message:{name}49533 van denna rundan:
+0001-01-01 00:00:00:Message:{name}49533 van denna rundan:
+0001-01-01 00:00:00:nowPlaying:{name}49533:
+0001-01-01 00:00:00:Winner:{name}49533:
+0001-01-01 00:00:00:nowPlaying:{name}49533:
+0001-01-01 00:00:00:Message:now playing {name}49533:
+0001-01-01 00:00:00:Message:now playing {name}49533:
+0001-01-01 00:00:00:uppdateMoney:-500:{name}49534:
+0001-01-01 00:00:00:uppdateMoney:-500:{name}49534:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}49619:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:uppdateConections:
+0001-01-01 00:00:00:newPlayer:{name}49619::newPlayer:{name}49621:
+0001-01-01 00:00:00:newPlayer:{name}49619::newPlayer:{name}49621:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:startGame:
+0001-01-01 00:00:00:nowPlaying:{name}49621:
+0001-01-01 00:00:00:nowPlaying:{name}49621:
+0001-01-01 00:00:00:dice:1:2:210:510:{name}49621
+0001-01-01 00:00:00:dice:1:2:210:510:{name}49621
+0001-01-01 00:00:00:köpaYES/NO:60:
+0001-01-01 00:00:00:Message:{name}49621 gick till platta 3:
+0001-01-01 00:00:00:Message:{name}49621 gick till platta 3:
+0001-01-01 00:00:00:Message:{name}49621 slog 1,2:
+0001-01-01 00:00:00:Message:{name}49621 slog 1,2:
+0001-01-01 00:00:00:uppdateMoney:1440:{name}49621:
+0001-01-01 00:00:00:uppdateMoney:1440:{name}49621:
+0001-01-01 00:00:00:Message:{name}49621 köpte HORNSGATAN:
+0001-01-01 00:00:00:Message:{name}49621 köpte HORNSGATAN:
+0001-01-01 00:00:00:nowPlaying:{name}49619:
+0001-01-01 00:00:00:nowPlaying:{name}49619:
+0001-01-01 00:00:00:Message:now playing {name}49619:
+0001-01-01 00:00:00:Message:now playing {name}49619:
+0001-01-01 00:00:00:Message:{name}49619 gick till platta 9:
+0001-01-01 00:00:00:dice:6:3:210:148:{name}49619
+0001-01-01 00:00:00:dice:6:3:210:148:{name}49619
+0001-01-01 00:00:00:köpaYES/NO:100:
+0001-01-01 00:00:00:Message:{name}49619 gick till platta 9:
+0001-01-01 00:00:00:Message:{name}49619 slog 6,3:
+0001-01-01 00:00:00:Message:{name}49619 slog 6,3:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}49619:
+0001-01-01 00:00:00:uppdateMoney:1400:{name}49619:
+0001-01-01 00:00:00:Message:{name}49619 köpte RINGVÄGEN:
+0001-01-01 00:00:00:Message:{name}49619 köpte RINGVÄGEN:
+0001-01-01 00:00:00:nowPlaying:{name}49621:
+0001-01-01 00:00:00:nowPlaying:{name}49621:
+0001-01-01 00:00:00:Message:now playing {name}49621:
+0001-01-01 00:00:00:Message:now playing {name}49621:
+0001-01-01 00:00:00:closewindow::
+0001-01-01 00:00:00:closewindow::

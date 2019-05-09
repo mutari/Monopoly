@@ -310,7 +310,6 @@ namespace Monopol
                     MessageBox.Show("vinnaren är " + name);
                     //stännger av spelet när någon har vunnit
                     startaAsyncSkrivning(":logingOut:");
-                    close();
                 }
                 else if (splitdata[i] == "Lost")
                 {
